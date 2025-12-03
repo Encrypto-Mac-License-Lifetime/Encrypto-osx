@@ -62,7 +62,7 @@ Since it is built specifically for macOS, Encrypto integrates smoothly with Find
 ## Screenshots
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/354610/m/800x500bb-screenshot.png?v=1723056758" width="824" alt="Screenshot"/>
+  <img src="https://i.pcmag.com/imagery/reviews/009bMGrW9vQHPYOfOMV1bq9-5..v1690570083.png" alt="Screenshot"/>
 </p>
 
 ---
